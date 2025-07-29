@@ -1,59 +1,69 @@
-# EmployeeManagement
+# technical-assessment
+pembuatan project untuk technical assesment
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.1.3.
+# Employee Management (Angular 20 + Tailwind CSS)
 
-## Development server
+A simple backoffice web app built with Angular 20, Tailwind CSS, and Angular Material. This project is part of a technical assessment to manage employee data — including create, edit, filter, and display features.
 
-To start a local development server, run:
+## 🔧 Tech Stack
 
-```bash
+- Angular CLI v20.1.3
+- Node.js v22.16.0
+- Tailwind CSS
+- Angular Material
+- RxJS
+- TypeScript
+
+## 📦 Prerequisites
+
+Ensure the following are installed:
+
+- [Node.js v22](https://nodejs.org/en) (with npm v10+)
+- Angular CLI v20+
+
+You can check your versions using:
+node -v
+npm -v
+ng version
+
+🚀 Installation
+
+Clone this repo
+git clone https://github.com/fariszulsr/technical-assessment.git
+cd employee-management
+
+Install dependencies
+npm install
+
+Run the development server
 ng serve
-```
 
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
+Then open http://localhost:4200/ in your browser.
 
-## Code scaffolding
+🖼️ Features
+✅ Login Page
+✅ Employee List (with filters, pagination)
+✅ Add Employee Form
+✅ Detail Employee
+✅ Form Validation
+✅ Modal Dialog
+✅ Group filtering using ngx-mat-select-search
+✅ Angular Standalone Components
+✅ Tailwind CSS-based UI
 
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
 
-```bash
-ng generate component component-name
-```
+📁 Folder Structure
+src/
+├── app/
+│   ├── components/
+│   │   ├── employee-form/
+│   │   ├── employee-list/
+│   │   └── ...
+│   ├── services/
+│   ├── models/
+│   └── app.config.ts
+├── assets/
+├── environments/
+└── styles.scss
 
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
 
-```bash
-ng generate --help
-```
-
-## Building
-
-To build the project run:
-
-```bash
-ng build
-```
-
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
-
-## Running unit tests
-
-To execute unit tests with the [Karma](https://karma-runner.github.io) test runner, use the following command:
-
-```bash
-ng test
-```
-
-## Running end-to-end tests
-
-For end-to-end (e2e) testing, run:
-
-```bash
-ng e2e
-```
-
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
-
-## Additional Resources
-
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
