@@ -1,0 +1,1302 @@
+[
+  {
+    "employee": {
+      "username": "hamzahprayoga",
+      "firstName": "Adhiarja",
+      "lastName": "Handayani",
+      "email": "kalimharyanto@pt.desa.id",
+      "birthDate": "1986-01-17",
+      "basicSalary": 4500000,
+      "status": "Active",
+      "group": "A",
+      "description": "2025-01-04T01:13:34"
+    }
+  },
+  {
+    "employee": {
+      "username": "guyainah",
+      "firstName": "Siti",
+      "lastName": "Jailani",
+      "email": "fitrianiwijayanti@gmail.com",
+      "birthDate": "1995-05-22",
+      "basicSalary": 12000000,
+      "status": "Active",
+      "group": "C",
+      "description": "2025-04-03T22:25:46"
+    }
+  },
+  {
+    "employee": {
+      "username": "nashiruddinpia",
+      "firstName": "Muhammad",
+      "lastName": "Sihombing",
+      "email": "winarsihbalangga@yahoo.com",
+      "birthDate": "1976-11-09",
+      "basicSalary": 8000000,
+      "status": "Active",
+      "group": "D",
+      "description": "2025-01-06T05:36:17"
+    }
+  },
+  {
+    "employee": {
+      "username": "xyuniar",
+      "firstName": "Ella",
+      "lastName": "Oktaviani",
+      "email": "aditya93@perum.edu",
+      "birthDate": "1977-03-20",
+      "basicSalary": 4000000,
+      "status": "Active",
+      "group": "B",
+      "description": "2025-04-19T14:32:26"
+    }
+  },
+  {
+    "employee": {
+      "username": "maryaticemani",
+      "firstName": "Atmaja",
+      "lastName": "Suryono",
+      "email": "cengkalrahimah@yahoo.com",
+      "birthDate": "1973-12-11",
+      "basicSalary": 8000000,
+      "status": "Inactive",
+      "group": "D",
+      "description": "2025-04-02T07:14:12"
+    }
+  },
+  {
+    "employee": {
+      "username": "narpatidian",
+      "firstName": "Asman",
+      "lastName": "Hutagalung",
+      "email": "jadriansyah@ud.int",
+      "birthDate": "1970-05-29",
+      "basicSalary": 6000000,
+      "status": "Inactive",
+      "group": "B",
+      "description": "2025-07-08T19:39:48"
+    }
+  },
+  {
+    "employee": {
+      "username": "darman45",
+      "firstName": "Tomi",
+      "lastName": "Habibi",
+      "email": "galanghalimah@gmail.com",
+      "birthDate": "1992-08-27",
+      "basicSalary": 8000000,
+      "status": "Active",
+      "group": "A",
+      "description": "2025-03-24T21:44:11"
+    }
+  },
+  {
+    "employee": {
+      "username": "bkuswoyo",
+      "firstName": "Intan",
+      "lastName": "Kusmawati",
+      "email": "hartatireksa@yahoo.com",
+      "birthDate": "1989-04-19",
+      "basicSalary": 4500000,
+      "status": "Inactive",
+      "group": "D",
+      "description": "2025-01-03T16:26:53"
+    }
+  },
+  {
+    "employee": {
+      "username": "caturanggahartati",
+      "firstName": "Adiarja",
+      "lastName": "Waluyo",
+      "email": "rainadamanik@perum.edu",
+      "birthDate": "1990-12-06",
+      "basicSalary": 12000000,
+      "status": "Inactive",
+      "group": "B",
+      "description": "2025-03-01T04:54:28"
+    }
+  },
+  {
+    "employee": {
+      "username": "adikara99",
+      "firstName": "Nasrullah",
+      "lastName": "Lailasari",
+      "email": "jaiman93@gmail.com",
+      "birthDate": "1991-08-12",
+      "basicSalary": 5000000,
+      "status": "Active",
+      "group": "C",
+      "description": "2025-04-25T17:53:37"
+    }
+  },
+  {
+    "employee": {
+      "username": "maryadimumpuni",
+      "firstName": "Bakiono",
+      "lastName": "Yuliarti",
+      "email": "puji69@yahoo.com",
+      "birthDate": "1979-01-05",
+      "basicSalary": 5000000,
+      "status": "Inactive",
+      "group": "A",
+      "description": "2025-06-27T15:41:43"
+    }
+  },
+  {
+    "employee": {
+      "username": "okto73",
+      "firstName": "Mahesa",
+      "lastName": "Purwanti",
+      "email": "riyantiopung@yahoo.com",
+      "birthDate": "1985-12-06",
+      "basicSalary": 3000000,
+      "status": "Active",
+      "group": "B",
+      "description": "2025-01-17T20:55:11"
+    }
+  },
+  {
+    "employee": {
+      "username": "fnugroho",
+      "firstName": "Ira",
+      "lastName": "Yuniar",
+      "email": "setiawandadap@ud.org",
+      "birthDate": "1990-07-10",
+      "basicSalary": 20000000,
+      "status": "Active",
+      "group": "D",
+      "description": "2025-01-30T01:07:00"
+    }
+  },
+  {
+    "employee": {
+      "username": "wulandariwardaya",
+      "firstName": "Harsanto",
+      "lastName": "Oktaviani",
+      "email": "pandupermadi@gmail.com",
+      "birthDate": "1996-11-22",
+      "basicSalary": 4000000,
+      "status": "Active",
+      "group": "B",
+      "description": "2025-05-28T16:20:31"
+    }
+  },
+  {
+    "employee": {
+      "username": "suartinigabriella",
+      "firstName": "Ellis",
+      "lastName": "Purwanti",
+      "email": "pangeransuwarno@yahoo.com",
+      "birthDate": "1979-12-19",
+      "basicSalary": 10000000,
+      "status": "Active",
+      "group": "C",
+      "description": "2025-07-10T08:18:43"
+    }
+  },
+  {
+    "employee": {
+      "username": "gildamangunsong",
+      "firstName": "Uda",
+      "lastName": "Nuraini",
+      "email": "vwahyuni@cv.biz.id",
+      "birthDate": "1989-09-03",
+      "basicSalary": 20000000,
+      "status": "Inactive",
+      "group": "B",
+      "description": "2025-06-29T05:58:24"
+    }
+  },
+  {
+    "employee": {
+      "username": "asmiantositorus",
+      "firstName": "Michelle",
+      "lastName": "Hasanah",
+      "email": "simboloncahyanto@yahoo.com",
+      "birthDate": "1983-11-30",
+      "basicSalary": 12000000,
+      "status": "Inactive",
+      "group": "B",
+      "description": "2025-01-02T16:25:23"
+    }
+  },
+  {
+    "employee": {
+      "username": "rahmatwinarsih",
+      "firstName": "Viktor",
+      "lastName": "Damanik",
+      "email": "cengkirwinarno@gmail.com",
+      "birthDate": "1990-08-27",
+      "basicSalary": 5000000,
+      "status": "Inactive",
+      "group": "B",
+      "description": "2025-05-06T05:32:45"
+    }
+  },
+  {
+    "employee": {
+      "username": "sidiq75",
+      "firstName": "Oliva",
+      "lastName": "Wibowo",
+      "email": "bgunarto@hotmail.com",
+      "birthDate": "1996-12-01",
+      "basicSalary": 3500000,
+      "status": "Inactive",
+      "group": "D",
+      "description": "2025-03-24T09:51:40"
+    }
+  },
+  {
+    "employee": {
+      "username": "tuyainah",
+      "firstName": "Kala",
+      "lastName": "Riyanti",
+      "email": "yessi66@pd.sch.id",
+      "birthDate": "1995-03-08",
+      "basicSalary": 4500000,
+      "status": "Inactive",
+      "group": "C",
+      "description": "2025-01-29T17:53:34"
+    }
+  },
+  {
+    "employee": {
+      "username": "hendra23",
+      "firstName": "Talia",
+      "lastName": "Irawan",
+      "email": "gada62@perum.net",
+      "birthDate": "1969-08-28",
+      "basicSalary": 15000000,
+      "status": "Active",
+      "group": "B",
+      "description": "2025-06-02T03:03:27"
+    }
+  },
+  {
+    "employee": {
+      "username": "zulaikhajailani",
+      "firstName": "Ghani",
+      "lastName": "Wahyuni",
+      "email": "hartaka71@pd.ac.id",
+      "birthDate": "1984-09-26",
+      "basicSalary": 6000000,
+      "status": "Active",
+      "group": "C",
+      "description": "2025-01-08T22:36:02"
+    }
+  },
+  {
+    "employee": {
+      "username": "harimurtinatsir",
+      "firstName": "Bakda",
+      "lastName": "Thamrin",
+      "email": "tarihoranjasmani@yahoo.com",
+      "birthDate": "1991-12-26",
+      "basicSalary": 3500000,
+      "status": "Inactive",
+      "group": "C",
+      "description": "2025-01-19T05:57:51"
+    }
+  },
+  {
+    "employee": {
+      "username": "hartatibala",
+      "firstName": "Tiara",
+      "lastName": "Anggriawan",
+      "email": "hutagalungrahmi@pt.biz.id",
+      "birthDate": "1998-05-28",
+      "basicSalary": 6000000,
+      "status": "Active",
+      "group": "D",
+      "description": "2025-03-28T23:04:08"
+    }
+  },
+  {
+    "employee": {
+      "username": "nasyidahlabuh",
+      "firstName": "Jarwa",
+      "lastName": "Saragih",
+      "email": "hsuartini@gmail.com",
+      "birthDate": "1979-08-25",
+      "basicSalary": 12000000,
+      "status": "Active",
+      "group": "C",
+      "description": "2025-03-08T19:03:15"
+    }
+  },
+  {
+    "employee": {
+      "username": "zamiraramadan",
+      "firstName": "Warsa",
+      "lastName": "Wulandari",
+      "email": "vwacana@ud.biz.id",
+      "birthDate": "2002-01-05",
+      "basicSalary": 6000000,
+      "status": "Active",
+      "group": "C",
+      "description": "2025-07-14T17:29:22"
+    }
+  },
+  {
+    "employee": {
+      "username": "pranawa78",
+      "firstName": "Kania",
+      "lastName": "Mayasari",
+      "email": "bahuraksasuryatmi@yahoo.com",
+      "birthDate": "1996-07-24",
+      "basicSalary": 6000000,
+      "status": "Active",
+      "group": "A",
+      "description": "2025-02-22T21:16:17"
+    }
+  },
+  {
+    "employee": {
+      "username": "enurdiyanti",
+      "firstName": "Talia",
+      "lastName": "Samosir",
+      "email": "mangunsongbanara@pt.ponpes.id",
+      "birthDate": "1990-03-09",
+      "basicSalary": 8000000,
+      "status": "Active",
+      "group": "A",
+      "description": "2025-02-07T09:17:36"
+    }
+  },
+  {
+    "employee": {
+      "username": "ismail94",
+      "firstName": "Laswi",
+      "lastName": "Agustina",
+      "email": "saragihluwes@hotmail.com",
+      "birthDate": "1998-10-25",
+      "basicSalary": 4500000,
+      "status": "Active",
+      "group": "D",
+      "description": "2025-07-23T17:01:05"
+    }
+  },
+  {
+    "employee": {
+      "username": "vfujiati",
+      "firstName": "Cahyanto",
+      "lastName": "Riyanti",
+      "email": "yessilaksita@pd.co.id",
+      "birthDate": "1979-02-04",
+      "basicSalary": 5000000,
+      "status": "Active",
+      "group": "A",
+      "description": "2025-04-13T02:05:58"
+    }
+  },
+  {
+    "employee": {
+      "username": "wibisonohadi",
+      "firstName": "Icha",
+      "lastName": "Pratiwi",
+      "email": "krahimah@gmail.com",
+      "birthDate": "1993-02-10",
+      "basicSalary": 6000000,
+      "status": "Active",
+      "group": "C",
+      "description": "2025-02-28T17:34:55"
+    }
+  },
+  {
+    "employee": {
+      "username": "pradanagasti",
+      "firstName": "Maimunah",
+      "lastName": "Hartati",
+      "email": "xmanullang@pt.biz.id",
+      "birthDate": "2002-03-11",
+      "basicSalary": 4000000,
+      "status": "Inactive",
+      "group": "A",
+      "description": "2025-07-15T09:37:18"
+    }
+  },
+  {
+    "employee": {
+      "username": "sihotanglurhur",
+      "firstName": "Warsa",
+      "lastName": "Siregar",
+      "email": "elvin87@yahoo.com",
+      "birthDate": "1972-05-23",
+      "basicSalary": 3500000,
+      "status": "Active",
+      "group": "D",
+      "description": "2025-07-02T08:54:53"
+    }
+  },
+  {
+    "employee": {
+      "username": "zpertiwi",
+      "firstName": "Nasab",
+      "lastName": "Marpaung",
+      "email": "hardiansyahprayitna@yahoo.com",
+      "birthDate": "1975-09-19",
+      "basicSalary": 8000000,
+      "status": "Active",
+      "group": "B",
+      "description": "2025-02-15T22:43:40"
+    }
+  },
+  {
+    "employee": {
+      "username": "hutasoitzulaikha",
+      "firstName": "Simon",
+      "lastName": "Najmudin",
+      "email": "shartati@hotmail.com",
+      "birthDate": "1997-06-23",
+      "basicSalary": 3000000,
+      "status": "Inactive",
+      "group": "A",
+      "description": "2025-06-19T10:42:38"
+    }
+  },
+  {
+    "employee": {
+      "username": "gandewa33",
+      "firstName": "Cemeti",
+      "lastName": "Mardhiyah",
+      "email": "unjaninovitasari@ud.id",
+      "birthDate": "1994-01-17",
+      "basicSalary": 6000000,
+      "status": "Inactive",
+      "group": "C",
+      "description": "2025-06-03T11:41:12"
+    }
+  },
+  {
+    "employee": {
+      "username": "violethabibi",
+      "firstName": "Rahmi",
+      "lastName": "Narpati",
+      "email": "fkusumo@gmail.com",
+      "birthDate": "1978-05-07",
+      "basicSalary": 12000000,
+      "status": "Active",
+      "group": "C",
+      "description": "2025-06-04T00:53:19"
+    }
+  },
+  {
+    "employee": {
+      "username": "mpuspita",
+      "firstName": "Tantri",
+      "lastName": "Puspita",
+      "email": "prasetyapratiwi@gmail.com",
+      "birthDate": "1984-06-04",
+      "basicSalary": 4000000,
+      "status": "Inactive",
+      "group": "A",
+      "description": "2025-07-04T21:34:06"
+    }
+  },
+  {
+    "employee": {
+      "username": "siraitwinda",
+      "firstName": "Cengkir",
+      "lastName": "Siregar",
+      "email": "pancahalim@cv.biz.id",
+      "birthDate": "1991-07-13",
+      "basicSalary": 20000000,
+      "status": "Active",
+      "group": "D",
+      "description": "2025-07-03T07:22:14"
+    }
+  },
+  {
+    "employee": {
+      "username": "respati35",
+      "firstName": "Dwi",
+      "lastName": "Hariyah",
+      "email": "rnamaga@hotmail.com",
+      "birthDate": "1984-08-10",
+      "basicSalary": 12000000,
+      "status": "Inactive",
+      "group": "D",
+      "description": "2025-07-12T13:50:32"
+    }
+  },
+  {
+    "employee": {
+      "username": "mulyanto53",
+      "firstName": "Hasim",
+      "lastName": "Rahimah",
+      "email": "muni03@cv.org",
+      "birthDate": "1980-03-12",
+      "basicSalary": 15000000,
+      "status": "Active",
+      "group": "C",
+      "description": "2025-05-04T11:51:30"
+    }
+  },
+  {
+    "employee": {
+      "username": "raden47",
+      "firstName": "Erik",
+      "lastName": "Mustofa",
+      "email": "tirtasihombing@perum.int",
+      "birthDate": "1988-08-12",
+      "basicSalary": 3500000,
+      "status": "Active",
+      "group": "A",
+      "description": "2025-02-15T11:34:42"
+    }
+  },
+  {
+    "employee": {
+      "username": "marsitositompul",
+      "firstName": "Harsana",
+      "lastName": "Dongoran",
+      "email": "tiara32@gmail.com",
+      "birthDate": "1976-09-07",
+      "basicSalary": 12000000,
+      "status": "Active",
+      "group": "D",
+      "description": "2025-02-13T21:11:39"
+    }
+  },
+  {
+    "employee": {
+      "username": "diana56",
+      "firstName": "Radika",
+      "lastName": "Purnawati",
+      "email": "rezanajmudin@perum.my.id",
+      "birthDate": "1979-05-08",
+      "basicSalary": 4500000,
+      "status": "Inactive",
+      "group": "D",
+      "description": "2025-06-19T06:55:09"
+    }
+  },
+  {
+    "employee": {
+      "username": "kenzie51",
+      "firstName": "Bancar",
+      "lastName": "Irawan",
+      "email": "gunartododo@pt.gov",
+      "birthDate": "2002-10-16",
+      "basicSalary": 3500000,
+      "status": "Active",
+      "group": "A",
+      "description": "2025-04-17T22:12:40"
+    }
+  },
+  {
+    "employee": {
+      "username": "pancasafitri",
+      "firstName": "Jaiman",
+      "lastName": "Anggriawan",
+      "email": "lukmanirawan@gmail.com",
+      "birthDate": "1975-06-01",
+      "basicSalary": 3000000,
+      "status": "Inactive",
+      "group": "B",
+      "description": "2025-03-04T22:22:56"
+    }
+  },
+  {
+    "employee": {
+      "username": "ntarihoran",
+      "firstName": "Jarwa",
+      "lastName": "Widiastuti",
+      "email": "gmansur@cv.co.id",
+      "birthDate": "1981-02-08",
+      "basicSalary": 3000000,
+      "status": "Active",
+      "group": "D",
+      "description": "2025-04-19T19:02:56"
+    }
+  },
+  {
+    "employee": {
+      "username": "tambarizki",
+      "firstName": "Agnes",
+      "lastName": "Sihombing",
+      "email": "shakila92@yahoo.com",
+      "birthDate": "1992-12-31",
+      "basicSalary": 12000000,
+      "status": "Inactive",
+      "group": "D",
+      "description": "2025-03-09T13:37:51"
+    }
+  },
+  {
+    "employee": {
+      "username": "hlaksmiwati",
+      "firstName": "Mahdi",
+      "lastName": "Lazuardi",
+      "email": "gsinaga@pd.mil",
+      "birthDate": "1975-06-29",
+      "basicSalary": 10000000,
+      "status": "Inactive",
+      "group": "B",
+      "description": "2025-07-10T13:41:43"
+    }
+  },
+  {
+    "employee": {
+      "username": "maryadihasna",
+      "firstName": "Cakrawangsa",
+      "lastName": "Laksita",
+      "email": "dinda71@pt.sch.id",
+      "birthDate": "1977-05-06",
+      "basicSalary": 8000000,
+      "status": "Active",
+      "group": "C",
+      "description": "2025-01-15T01:24:46"
+    }
+  },
+  {
+    "employee": {
+      "username": "ulva04",
+      "firstName": "Harjaya",
+      "lastName": "Permadi",
+      "email": "pia98@yahoo.com",
+      "birthDate": "1982-06-11",
+      "basicSalary": 15000000,
+      "status": "Inactive",
+      "group": "A",
+      "description": "2025-05-25T06:15:30"
+    }
+  },
+  {
+    "employee": {
+      "username": "panca21",
+      "firstName": "Oskar",
+      "lastName": "Simbolon",
+      "email": "zeldabudiman@cv.co.id",
+      "birthDate": "1982-08-08",
+      "basicSalary": 8000000,
+      "status": "Active",
+      "group": "B",
+      "description": "2025-07-26T17:20:22"
+    }
+  },
+  {
+    "employee": {
+      "username": "puspasaripangestu",
+      "firstName": "Irnanto",
+      "lastName": "Purwanti",
+      "email": "narpatimustika@hotmail.com",
+      "birthDate": "1978-09-07",
+      "basicSalary": 20000000,
+      "status": "Active",
+      "group": "B",
+      "description": "2025-05-22T10:39:39"
+    }
+  },
+  {
+    "employee": {
+      "username": "safitriyoga",
+      "firstName": "Viktor",
+      "lastName": "Halim",
+      "email": "gpradana@pd.sch.id",
+      "birthDate": "1999-12-28",
+      "basicSalary": 8000000,
+      "status": "Inactive",
+      "group": "B",
+      "description": "2025-04-30T12:27:06"
+    }
+  },
+  {
+    "employee": {
+      "username": "maulanacitra",
+      "firstName": "Samsul",
+      "lastName": "Pratiwi",
+      "email": "safitriwarji@perum.my.id",
+      "birthDate": "1971-01-17",
+      "basicSalary": 12000000,
+      "status": "Active",
+      "group": "C",
+      "description": "2025-07-18T00:36:43"
+    }
+  },
+  {
+    "employee": {
+      "username": "xpadmasari",
+      "firstName": "Syahrini",
+      "lastName": "Yulianti",
+      "email": "kairav64@gmail.com",
+      "birthDate": "1985-03-12",
+      "basicSalary": 3500000,
+      "status": "Inactive",
+      "group": "A",
+      "description": "2025-01-06T20:59:51"
+    }
+  },
+  {
+    "employee": {
+      "username": "qori21",
+      "firstName": "Bagas",
+      "lastName": "Suartini",
+      "email": "siregarpranawa@yahoo.com",
+      "birthDate": "1992-07-12",
+      "basicSalary": 8000000,
+      "status": "Inactive",
+      "group": "D",
+      "description": "2025-04-22T19:18:19"
+    }
+  },
+  {
+    "employee": {
+      "username": "sadinamustofa",
+      "firstName": "Jaka",
+      "lastName": "Budiman",
+      "email": "abyasasuwarno@pd.ac.id",
+      "birthDate": "1997-09-09",
+      "basicSalary": 5000000,
+      "status": "Inactive",
+      "group": "B",
+      "description": "2025-02-06T15:03:05"
+    }
+  },
+  {
+    "employee": {
+      "username": "pratiwihartaka",
+      "firstName": "Emin",
+      "lastName": "Suryono",
+      "email": "aisyahnapitupulu@hotmail.com",
+      "birthDate": "1983-09-19",
+      "basicSalary": 15000000,
+      "status": "Inactive",
+      "group": "B",
+      "description": "2025-05-27T12:24:37"
+    }
+  },
+  {
+    "employee": {
+      "username": "khutagalung",
+      "firstName": "Karna",
+      "lastName": "Widiastuti",
+      "email": "susantigasti@hotmail.com",
+      "birthDate": "1999-08-14",
+      "basicSalary": 3000000,
+      "status": "Inactive",
+      "group": "A",
+      "description": "2025-07-18T08:35:25"
+    }
+  },
+  {
+    "employee": {
+      "username": "narpatiaurora",
+      "firstName": "Mahdi",
+      "lastName": "Najmudin",
+      "email": "kamal00@gmail.com",
+      "birthDate": "1984-08-19",
+      "basicSalary": 3000000,
+      "status": "Inactive",
+      "group": "D",
+      "description": "2025-05-01T12:59:09"
+    }
+  },
+  {
+    "employee": {
+      "username": "tmanullang",
+      "firstName": "Nalar",
+      "lastName": "Mahendra",
+      "email": "maryatimursita@ud.com",
+      "birthDate": "1978-01-14",
+      "basicSalary": 20000000,
+      "status": "Inactive",
+      "group": "C",
+      "description": "2025-06-27T13:09:40"
+    }
+  },
+  {
+    "employee": {
+      "username": "raditya75",
+      "firstName": "Karsana",
+      "lastName": "Maryati",
+      "email": "jayengnababan@yahoo.com",
+      "birthDate": "1997-12-24",
+      "basicSalary": 6000000,
+      "status": "Inactive",
+      "group": "B",
+      "description": "2025-06-14T22:33:30"
+    }
+  },
+  {
+    "employee": {
+      "username": "ssaptono",
+      "firstName": "Rudi",
+      "lastName": "Prabowo",
+      "email": "sihotangwarsita@perum.my.id",
+      "birthDate": "1986-02-16",
+      "basicSalary": 20000000,
+      "status": "Active",
+      "group": "D",
+      "description": "2025-06-01T18:04:43"
+    }
+  },
+  {
+    "employee": {
+      "username": "rahmawatieka",
+      "firstName": "Wardi",
+      "lastName": "Mardhiyah",
+      "email": "ffirmansyah@pt.com",
+      "birthDate": "2002-09-27",
+      "basicSalary": 5000000,
+      "status": "Active",
+      "group": "A",
+      "description": "2025-07-18T16:31:53"
+    }
+  },
+  {
+    "employee": {
+      "username": "prabowooman",
+      "firstName": "Anom",
+      "lastName": "Iswahyudi",
+      "email": "rizki20@ud.or.id",
+      "birthDate": "1978-12-14",
+      "basicSalary": 3500000,
+      "status": "Active",
+      "group": "A",
+      "description": "2025-03-14T09:46:23"
+    }
+  },
+  {
+    "employee": {
+      "username": "qori63",
+      "firstName": "Mitra",
+      "lastName": "Zulaika",
+      "email": "cagaksetiawan@pd.mil",
+      "birthDate": "1982-11-14",
+      "basicSalary": 3500000,
+      "status": "Active",
+      "group": "A",
+      "description": "2025-01-25T03:06:24"
+    }
+  },
+  {
+    "employee": {
+      "username": "rendyhutagalung",
+      "firstName": "Endra",
+      "lastName": "Pradana",
+      "email": "aniwasita@pd.net",
+      "birthDate": "1970-06-23",
+      "basicSalary": 15000000,
+      "status": "Active",
+      "group": "A",
+      "description": "2025-01-24T09:17:47"
+    }
+  },
+  {
+    "employee": {
+      "username": "siregarrahayu",
+      "firstName": "Jamal",
+      "lastName": "Hasanah",
+      "email": "nmandasari@gmail.com",
+      "birthDate": "1990-06-06",
+      "basicSalary": 3500000,
+      "status": "Active",
+      "group": "B",
+      "description": "2025-05-19T10:22:56"
+    }
+  },
+  {
+    "employee": {
+      "username": "apalastri",
+      "firstName": "Cahyadi",
+      "lastName": "Padmasari",
+      "email": "ykurniawan@gmail.com",
+      "birthDate": "1993-05-23",
+      "basicSalary": 4500000,
+      "status": "Inactive",
+      "group": "D",
+      "description": "2025-05-08T21:12:33"
+    }
+  },
+  {
+    "employee": {
+      "username": "martanidongoran",
+      "firstName": "Bajragin",
+      "lastName": "Waskita",
+      "email": "uwaislanang@yahoo.com",
+      "birthDate": "1999-09-02",
+      "basicSalary": 6000000,
+      "status": "Inactive",
+      "group": "C",
+      "description": "2025-02-09T09:46:41"
+    }
+  },
+  {
+    "employee": {
+      "username": "fpadmasari",
+      "firstName": "Kartika",
+      "lastName": "Zulaika",
+      "email": "putri13@hotmail.com",
+      "birthDate": "1987-08-06",
+      "basicSalary": 5500000,
+      "status": "Inactive",
+      "group": "A",
+      "description": "2025-03-08T23:40:23"
+    }
+  },
+  {
+    "employee": {
+      "username": "natalia19",
+      "firstName": "Citra",
+      "lastName": "Mayasari",
+      "email": "muhammad45@perum.mil.id",
+      "birthDate": "1975-11-25",
+      "basicSalary": 3500000,
+      "status": "Inactive",
+      "group": "A",
+      "description": "2025-06-04T12:05:02"
+    }
+  },
+  {
+    "employee": {
+      "username": "twinarno",
+      "firstName": "Safina",
+      "lastName": "Firgantoro",
+      "email": "yulia39@gmail.com",
+      "birthDate": "1989-07-09",
+      "basicSalary": 6000000,
+      "status": "Active",
+      "group": "C",
+      "description": "2025-03-06T09:44:42"
+    }
+  },
+  {
+    "employee": {
+      "username": "purwadifarida",
+      "firstName": "Luis",
+      "lastName": "Hidayat",
+      "email": "faridaasmadi@ud.com",
+      "birthDate": "1979-08-09",
+      "basicSalary": 8000000,
+      "status": "Active",
+      "group": "C",
+      "description": "2025-06-17T06:38:33"
+    }
+  },
+  {
+    "employee": {
+      "username": "ghaliyatimulyani",
+      "firstName": "Bakijan",
+      "lastName": "Januar",
+      "email": "lantar76@pt.mil.id",
+      "birthDate": "1974-05-28",
+      "basicSalary": 4000000,
+      "status": "Active",
+      "group": "B",
+      "description": "2025-06-24T13:23:27"
+    }
+  },
+  {
+    "employee": {
+      "username": "mahesaharyanto",
+      "firstName": "Harsanto",
+      "lastName": "Farida",
+      "email": "salwasetiawan@hotmail.com",
+      "birthDate": "1988-11-18",
+      "basicSalary": 10000000,
+      "status": "Inactive",
+      "group": "B",
+      "description": "2025-07-28T07:43:36"
+    }
+  },
+  {
+    "employee": {
+      "username": "dianasiregar",
+      "firstName": "Rangga",
+      "lastName": "Nugroho",
+      "email": "samsulwastuti@gmail.com",
+      "birthDate": "1997-12-24",
+      "basicSalary": 20000000,
+      "status": "Inactive",
+      "group": "C",
+      "description": "2025-05-25T23:05:04"
+    }
+  },
+  {
+    "employee": {
+      "username": "makuta97",
+      "firstName": "Cagak",
+      "lastName": "Uwais",
+      "email": "rsalahudin@cv.org",
+      "birthDate": "2000-05-06",
+      "basicSalary": 8000000,
+      "status": "Active",
+      "group": "C",
+      "description": "2025-01-07T07:06:27"
+    }
+  },
+  {
+    "employee": {
+      "username": "gamantowahyuni",
+      "firstName": "Mursinin",
+      "lastName": "Astuti",
+      "email": "kamidin34@hotmail.com",
+      "birthDate": "1974-02-14",
+      "basicSalary": 3500000,
+      "status": "Active",
+      "group": "A",
+      "description": "2025-07-15T11:31:37"
+    }
+  },
+  {
+    "employee": {
+      "username": "gamankusmawati",
+      "firstName": "Belinda",
+      "lastName": "Utama",
+      "email": "napitupuluwirda@ud.or.id",
+      "birthDate": "1969-09-03",
+      "basicSalary": 12000000,
+      "status": "Active",
+      "group": "C",
+      "description": "2025-03-14T19:46:00"
+    }
+  },
+  {
+    "employee": {
+      "username": "kardisuryatmi",
+      "firstName": "Emong",
+      "lastName": "Mulyani",
+      "email": "fmardhiyah@yahoo.com",
+      "birthDate": "1970-09-26",
+      "basicSalary": 6000000,
+      "status": "Active",
+      "group": "C",
+      "description": "2025-02-15T07:49:37"
+    }
+  },
+  {
+    "employee": {
+      "username": "gunartoelisa",
+      "firstName": "Caket",
+      "lastName": "Samosir",
+      "email": "hastutitugiman@hotmail.com",
+      "birthDate": "1981-09-12",
+      "basicSalary": 20000000,
+      "status": "Inactive",
+      "group": "A",
+      "description": "2025-04-28T07:25:39"
+    }
+  },
+  {
+    "employee": {
+      "username": "kamidinwastuti",
+      "firstName": "Omar",
+      "lastName": "Wastuti",
+      "email": "wahyudingambira@pt.com",
+      "birthDate": "1981-02-02",
+      "basicSalary": 20000000,
+      "status": "Inactive",
+      "group": "C",
+      "description": "2025-06-12T06:54:12"
+    }
+  },
+  {
+    "employee": {
+      "username": "mursininpranowo",
+      "firstName": "Cemplunk",
+      "lastName": "Winarsih",
+      "email": "jabal77@gmail.com",
+      "birthDate": "1973-07-12",
+      "basicSalary": 6000000,
+      "status": "Inactive",
+      "group": "C",
+      "description": "2025-06-02T04:52:00"
+    }
+  },
+  {
+    "employee": {
+      "username": "siraittimbul",
+      "firstName": "Talia",
+      "lastName": "Mandala",
+      "email": "tarihoranharjaya@yahoo.com",
+      "birthDate": "2000-12-16",
+      "basicSalary": 4000000,
+      "status": "Active",
+      "group": "D",
+      "description": "2025-05-20T04:59:25"
+    }
+  },
+  {
+    "employee": {
+      "username": "galarpuspasari",
+      "firstName": "Hadi",
+      "lastName": "Widodo",
+      "email": "shariyah@yahoo.com",
+      "birthDate": "1998-09-09",
+      "basicSalary": 15000000,
+      "status": "Inactive",
+      "group": "A",
+      "description": "2025-06-24T14:00:02"
+    }
+  },
+  {
+    "employee": {
+      "username": "jayeng85",
+      "firstName": "Cemeti",
+      "lastName": "Nainggolan",
+      "email": "namagaaslijan@ud.biz.id",
+      "birthDate": "2003-03-10",
+      "basicSalary": 10000000,
+      "status": "Inactive",
+      "group": "D",
+      "description": "2025-03-08T22:20:11"
+    }
+  },
+  {
+    "employee": {
+      "username": "azalea55",
+      "firstName": "Cemeti",
+      "lastName": "Hidayanto",
+      "email": "lanangmegantara@gmail.com",
+      "birthDate": "2000-10-17",
+      "basicSalary": 3000000,
+      "status": "Inactive",
+      "group": "D",
+      "description": "2025-01-10T17:58:29"
+    }
+  },
+  {
+    "employee": {
+      "username": "lamar70",
+      "firstName": "Pardi",
+      "lastName": "Wibowo",
+      "email": "endramansur@gmail.com",
+      "birthDate": "1977-10-09",
+      "basicSalary": 4000000,
+      "status": "Active",
+      "group": "A",
+      "description": "2025-07-23T21:37:26"
+    }
+  },
+  {
+    "employee": {
+      "username": "rahimahcengkir",
+      "firstName": "Ifa",
+      "lastName": "Astuti",
+      "email": "tsalahudin@yahoo.com",
+      "birthDate": "2001-08-23",
+      "basicSalary": 7000000,
+      "status": "Active",
+      "group": "A",
+      "description": "2025-03-16T09:17:10"
+    }
+  },
+  {
+    "employee": {
+      "username": "hwinarsih",
+      "firstName": "Mumpuni",
+      "lastName": "Wibowo",
+      "email": "rachel87@yahoo.com",
+      "birthDate": "1999-07-10",
+      "basicSalary": 7000000,
+      "status": "Active",
+      "group": "B",
+      "description": "2025-05-01T16:11:46"
+    }
+  },
+  {
+    "employee": {
+      "username": "cakrabuana29",
+      "firstName": "Marsito",
+      "lastName": "Fujiati",
+      "email": "qmaryadi@perum.desa.id",
+      "birthDate": "1976-11-25",
+      "basicSalary": 5000000,
+      "status": "Inactive",
+      "group": "D",
+      "description": "2025-01-30T07:27:01"
+    }
+  },
+  {
+    "employee": {
+      "username": "wgunarto",
+      "firstName": "Caraka",
+      "lastName": "Hartati",
+      "email": "dodo26@pd.gov",
+      "birthDate": "1988-07-09",
+      "basicSalary": 10000000,
+      "status": "Active",
+      "group": "C",
+      "description": "2025-05-19T02:54:33"
+    }
+  },
+  {
+    "employee": {
+      "username": "kwahyudin",
+      "firstName": "Betania",
+      "lastName": "Pudjiastuti",
+      "email": "dgunawan@yahoo.com",
+      "birthDate": "1977-10-31",
+      "basicSalary": 8000000,
+      "status": "Active",
+      "group": "C",
+      "description": "2025-01-22T22:53:13"
+    }
+  },
+  {
+    "employee": {
+      "username": "carlajanuar",
+      "firstName": "Nilam",
+      "lastName": "Wasita",
+      "email": "cawisadi14@pt.org",
+      "birthDate": "1984-05-31",
+      "basicSalary": 4500000,
+      "status": "Active",
+      "group": "D",
+      "description": "2025-05-25T13:29:48"
+    }
+  },
+  {
+    "employee": {
+      "username": "cemeti24",
+      "firstName": "Zaenab",
+      "lastName": "Zulkarnain",
+      "email": "anggabaya33@gmail.com",
+      "birthDate": "1983-01-08",
+      "basicSalary": 3500000,
+      "status": "Inactive",
+      "group": "B",
+      "description": "2025-04-24T03:07:42"
+    }
+  },
+  {
+    "employee": {
+      "username": "rosman87",
+      "firstName": "Praba",
+      "lastName": "Siregar",
+      "email": "itamba@yahoo.com",
+      "birthDate": "1982-06-24",
+      "basicSalary": 10000000,
+      "status": "Inactive",
+      "group": "A",
+      "description": "2025-03-16T16:55:19"
+    }
+  },
+  {
+    "employee": {
+      "username": "agnes25",
+      "firstName": "Akarsana",
+      "lastName": "Rahayu",
+      "email": "handayanijais@pt.mil.id",
+      "birthDate": "1993-02-08",
+      "basicSalary": 8000000,
+      "status": "Inactive",
+      "group": "A",
+      "description": "2025-01-14T10:26:55"
+    }
+  },
+  {
+    "employee": {
+      "username": "gnuraini",
+      "firstName": "Ibrani",
+      "lastName": "Natsir",
+      "email": "jwibisono@yahoo.com",
+      "birthDate": "2003-04-10",
+      "basicSalary": 12000000,
+      "status": "Inactive",
+      "group": "C",
+      "description": "2025-03-05T20:10:07"
+    }
+  }
+]

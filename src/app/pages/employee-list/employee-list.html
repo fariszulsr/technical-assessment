@@ -1,0 +1,119 @@
+<div class="h-screen overflow-y-auto">
+    <header
+        class="bg-gradient-to-r from-blue-600 to-blue-400 shadow px-6 py-4 sticky top-0 z-50 flex items-center justify-between">
+        <div class="w-1/3"></div>
+
+        <h1 class="text-xl font-semibold text-center text-gray-800 w-1/3">
+            Technical Assessment Backoffice - Frontend
+        </h1>
+
+        <div class="w-1/3 flex justify-end">
+            <button (click)="confirmation($event, 'logout')"
+                class="bg-red-500 hover:bg-red-700 text-white px-3 py-1 rounded flex items-center gap-1">
+                <mat-icon class="align-middle text-base">logout</mat-icon>
+                Log Out
+            </button>
+        </div>
+    </header>
+
+    <div class="p-4">
+        <div class="bg-gradient-to-r from-blue-600 to-blue-400 shadow rounded p-4 mb-4">
+            <div class="grid grid-cols-1 md:grid-cols-4 gap-4">
+                <input [(ngModel)]="filter.username" placeholder="Username" class="border p-2 rounded w-full" />
+                <input [(ngModel)]="filter.email" placeholder="Email" class="border p-2 rounded w-full" />
+                <select [(ngModel)]="filter.status" class="border p-2 rounded w-full">
+                    <option value="">All Status</option>
+                    <option *ngFor="let s of statusOption" [value]="s">{{ s }}</option>
+                </select>
+                <select [(ngModel)]="filter.group" class="border p-2 rounded w-full">
+                    <option value="">All Group</option>
+                    <option *ngFor="let g of groupOption" [value]="g">{{ g }}</option>
+                </select>
+            </div>
+
+            <div class="mt-8 mb-4 relative flex items-center justify-between">
+                <div class="absolute left-1/2 -translate-x-1/2 flex space-x-2">
+                    <button class="border bg-gray-400 text-white hover:bg-gray-300 px-3 py-1 rounded"
+                        (click)="applyFilter()"><mat-icon class="align-middle">search</mat-icon>
+                        Find
+                    </button>
+                    <button class="border bg-green-500 text-white hover:bg-green-400 px-3 py-1 rounded"
+                        (click)="addEmployee()"><mat-icon class="align-middle">add</mat-icon>
+                        Add
+                    </button>
+                </div>
+            </div>
+        </div>
+
+        <div class="bg-white shadow rounded overflow-x-auto">
+            <div class="max-h-[600px] overflow-y-auto">
+                <table class="table-auto w-full">
+                    <thead class="bg-blue-400 border-b sticky top-0 z-10">
+                        <tr>
+                            <th class="px-2 py-2 text-left w-12">Detail</th>
+                            <th class="px-4 py-2 text-left">Username</th>
+                            <th class="px-4 py-2 text-left">Email</th>
+                            <th class="px-4 py-2 text-left">Status</th>
+                            <th class="px-4 py-2 text-left">Group</th>
+                            <th class="px-4 py-2 text-left">Action</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr *ngFor="let emp of filteredEmployees | slice:(currentPage-1)*pageSize:(currentPage)*pageSize"
+                            class="border-b hover:bg-gray-50">
+                            <td class="px-2 py-2 text-center">
+                                <button class="text-blue-600 hover:underline flex items-center justify-center"
+                                    (click)="viewDetail(emp)" title="Lihat Detail">
+                                    <mat-icon class="text-[18px] leading-[1]">visibility</mat-icon>
+                                </button>
+                            </td>
+                            <td class="px-4 py-2">{{ emp.username }}</td>
+                            <td class="px-4 py-2">{{ emp.email }}</td>
+                            <td class="px-4 py-2">{{ emp.status }}</td>
+                            <td class="px-4 py-2">{{ emp.group }}</td>
+                            <td class="px-4 py-2">
+                                <button
+                                    class="border bg-yellow-500 text-white hover:bg-yellow-300 px-3 py-1 rounded mr-2"
+                                    (click)="confirmation(emp, 'edit')">
+                                    <mat-icon class="align-middle">edit</mat-icon>Edit
+                                </button>
+                                <button class="border bg-red-500 text-white hover:bg-red-300 px-3 py-1 rounded"
+                                    (click)="confirmation(emp, 'delete')">
+                                    <mat-icon class="align-middle">delete</mat-icon>Delete
+                                </button>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
+        <div class="mt-4 flex items-center justify-between relative">
+            <div class="absolute left-1/2 -translate-x-1/2 flex space-x-2">
+                <button (click)="prevPage()" [disabled]="currentPage === 1"
+                    class="px-3 py-1 text-white bg-blue-500 hover:bg-blue-400 rounded">
+                    <mat-icon class="align-middle">keyboard_arrow_left</mat-icon>
+                </button>
+                <span class="px-3 py-1">{{ currentPage }}</span>
+                <button (click)="nextPage()" [disabled]="(currentPage * pageSize) >= filteredEmployees.length"
+                    class="px-3 py-1 text-white bg-green-500 hover:bg-green-400 rounded">
+                    <mat-icon class="align-middle">keyboard_arrow_right</mat-icon>
+                </button>
+            </div>
+
+            <div class="ml-auto">
+                <select [(ngModel)]="pageSize" class="border p-2 rounded focus:outline-none focus:border-blue-500">
+                    <option *ngFor="let size of [10, 20, 50, 100]" [value]="size">{{ size }}</option>
+                </select>
+            </div>
+        </div>
+
+    </div>
+
+    <app-message-modal *ngIf="showModal" [title]="modalTitle" [message]="modalMessage" [type]="messageType"
+        (closed)="showModal = false; handleAfterOk()" (canceled)="showModal = false"
+        [showCancel]="showCancel"></app-message-modal>
+
+    <app-employee-detail-modal *ngIf="showDetailModal" [data]="selectedEmployee" (closed)="showDetailModal = false">
+    </app-employee-detail-modal>
+</div>
