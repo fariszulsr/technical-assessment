@@ -29,7 +29,7 @@ ng version
 🚀 Installation
 
 Clone this repo
-git clone https://github.com/your-username/employee-management.git
+git clone https://github.com/fariszulsr/technical-assessment.git
 cd employee-management
 
 Install dependencies
