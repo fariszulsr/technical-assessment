@@ -40,6 +40,9 @@ ng serve
 
 Then open http://localhost:4200/ in your browser.
 
+username: admin
+password: 123456
+
 🖼️ Features
 ✅ Login Page
 ✅ Employee List (with filters, pagination)
